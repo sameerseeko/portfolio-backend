@@ -16,5 +16,5 @@ This is the backend of my personal portfolio site, built using **Node.js**, **Ex
 
 ---
 
-## 📂 Folder Structure
+
 
